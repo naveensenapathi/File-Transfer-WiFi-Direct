@@ -8,6 +8,7 @@ WiFi Direct File Transfer is an app that will allow sharing of data between Andr
 
 [General Overview](http://developer.android.com/guide/topics/connectivity/wifip2p.html)  
 [Service Discovery](http://developer.android.com/training/connect-devices-wirelessly/nsd-wifi-direct.html)
+[Security Limitations](https://docs.microsoft.com/en-us/surface-hub/surface-hub-wifi-direct#:~:text=Security%20for%20Wi%2DFi%20Direct,communication%20(WPS%2DOOO).)
 
 WARNING: The app requires WifiP2pManager class. Does not work in an Android emulator
 
