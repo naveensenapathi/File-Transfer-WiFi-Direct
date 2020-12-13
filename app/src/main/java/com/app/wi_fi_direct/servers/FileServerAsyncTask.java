@@ -23,10 +23,6 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.ArrayList;
 
-/**
- * Created by dmitryMarinin on 23.03.2018.
- */
-
 public class FileServerAsyncTask extends AsyncTask<Void, CustomObject, Void> {
 
   private Context context;

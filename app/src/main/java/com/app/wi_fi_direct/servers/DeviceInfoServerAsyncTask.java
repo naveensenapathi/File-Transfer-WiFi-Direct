@@ -13,9 +13,6 @@ import java.io.ObjectInputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-/**
- * Created by dmitryMarinin on 23.03.2018.
- */
 
 public class DeviceInfoServerAsyncTask extends AsyncTask<Void, Void, Void> {
 
