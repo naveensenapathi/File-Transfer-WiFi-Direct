@@ -18,16 +18,16 @@
     <string name="ad_message">All incoming and outgoing connections will be disconnected.</string>
     <string name="ad_yes">OK</string>
     <string name="ad_no">Cancel</string>
-    <string name="banner_title">Header</string>
-    <string name="banner_text">Text of advertising</string>
+    <string name="banner_title">New User</string>
+    <string name="banner_text">+44 7911 123456</string>
 
     <string name="history">History</string>
-    <string name="store_location">Folder for download</string>
-    <string name="rate_app">Appreciate on Google Play</string>
-    <string name="settings_of_wifi_direct">Settings Wi-Fi Direct</string>
-    <string name="about_app">About the program</string>
+    <string name="store_location">Download destination</string>
+    <string name="rate_app">Rate us!</string>
+    <string name="settings_of_wifi_direct">Device name</string>
+    <string name="about_app">About us</string>
     <string name="clean_cache">Clear cache</string>
-    <string name="mail_to_developers">Write to the developer</string>
+    <string name="mail_to_developers">Write to us</string>
 
     <string name="alert">Attention!</string>
     <string name="enable_wifi_direct_before_using">You need to enable Wi-Fi Direct in device settings.</string>
