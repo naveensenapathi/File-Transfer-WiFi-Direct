@@ -4,7 +4,7 @@
     <string name="title_activity_peers_holder">PeersHolder</string>
     <string name="open_drawer">Open</string>
     <string name="close_drawer">Close</string>
-    <string name="alert_dialog_title">Change Device Name</string>
+    <string name="alert_dialog_title">Device Name</string>
 
     <string name="available_devices">Available Devices</string>
     <string name="sending">Sending</string>
@@ -22,9 +22,9 @@
     <string name="banner_text">+44 7911 123456</string>
 
     <string name="history">History</string>
-    <string name="store_location">Download destination</string>
+    <string name="store_location">Download location</string>
     <string name="rate_app">Rate us!</string>
-    <string name="settings_of_wifi_direct">Device name</string>
+    <string name="settings_of_wifi_direct">Rename device</string>
     <string name="about_app">About us</string>
     <string name="clean_cache">Clear cache</string>
     <string name="mail_to_developers">Write to us</string>

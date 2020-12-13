@@ -84,7 +84,7 @@ public class SettingsActivity extends AppCompatActivity {
 
     clAbout.setOnClickListener(l -> {
       Intent browserIntent = new Intent(Intent.ACTION_VIEW,
-          Uri.parse("https://github.com/YaphetS1/WiFi-Direct-File-Transfer-App"));
+          Uri.parse("https://github.com/"));
       startActivity(browserIntent);
     });
 
@@ -92,10 +92,10 @@ public class SettingsActivity extends AppCompatActivity {
       Intent intent = new Intent(Intent.ACTION_SEND);
       intent.setType("plain/text");
       intent.putExtra(android.content.Intent.EXTRA_EMAIL, new String[]{
-          "436910463q@gmail.com"
+          "wifitransfer@gmail.com"
       });
       intent.putExtra(android.content.Intent.EXTRA_SUBJECT, "Feedback");
-      intent.putExtra(android.content.Intent.EXTRA_TEXT, "Dear developer. ");
+      intent.putExtra(android.content.Intent.EXTRA_TEXT, "Hey! I have feedback for you.");
 
       /* Send it off to the Activity-Chooser */
       startActivity(Intent.createChooser(intent, "Send"));
