@@ -63,3 +63,23 @@ limitations under the License.
 
 <br/>
 
+## Screenshots
+
+![Screenshot_2020-12-13-21-43-19-676_com app wi_fi_direct](https://user-images.githubusercontent.com/12817953/102018278-61303180-3d92-11eb-81bf-a967d0be5120.png)
+
+
+![Screenshot_2020-12-13-21-44-33-732_com app wi_fi_direct](https://user-images.githubusercontent.com/12817953/102018280-64c3b880-3d92-11eb-9690-6445c150217c.png)
+
+
+![Screenshot_2020-12-13-21-46-30-143_com app wi_fi_direct](https://user-images.githubusercontent.com/12817953/102018281-67bea900-3d92-11eb-81e0-5cc7511866bc.png)
+
+
+![Screenshot_20201213-214400_Settings](https://user-images.githubusercontent.com/12817953/102018285-6ab99980-3d92-11eb-9073-41d32d9c9a34.jpg)
+
+
+![Screenshot_20201213-214559_Wi-Fi Direct File Transfer](https://user-images.githubusercontent.com/12817953/102018287-6d1bf380-3d92-11eb-96dd-8d7ff063a0e6.jpg)
+
+
+![Screenshot_20201213-214654_Wi-Fi Direct File Transfer](https://user-images.githubusercontent.com/12817953/102018291-70af7a80-3d92-11eb-8b44-2384db398caa.jpg)
+
+
