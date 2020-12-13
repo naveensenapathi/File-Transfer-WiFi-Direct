@@ -293,10 +293,6 @@ public class FileActivity extends AppCompatActivity {
     tvSendOrReceive = findViewById(R.id.tvSendOrReceive);
     NavService.setupTopNav(this, R.string.app_main_title, true);
 
-    Callback recommendationsTabAction = () -> {
-      Toast.makeText(FileActivity.this, "Some action will be here!", Toast.LENGTH_SHORT).show();
-    };
-
     Callback sendTabAction = () -> {
       activeTab = NavService.TAB_SEND;
       tvSendOrReceive.setText(R.string.sending);
@@ -325,7 +321,6 @@ public class FileActivity extends AppCompatActivity {
     };
 
     NavService.init(this
-        , recommendationsTabAction
         , sendTabAction
         , receiveTabAction
         , settingsTabAction

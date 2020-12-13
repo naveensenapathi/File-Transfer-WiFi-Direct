@@ -106,9 +106,6 @@ public class SettingsActivity extends AppCompatActivity {
     NavService.setupTopNav(this, R.string.settings, false);
     NavService.init(this
         , () -> {
-          Toast.makeText(SettingsActivity.this, "Some action will be here!", Toast.LENGTH_SHORT).show();
-        }
-        , () -> {
           Intent intent = new Intent(SettingsActivity.this, FileActivity.class);
           intent.putExtra(NavService.TAB, NavService.TAB_SEND);
           startActivity(intent);
